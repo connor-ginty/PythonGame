@@ -1,6 +1,4 @@
-from multiprocessing.forkserver import get_inherited_fds
 import random
-from turtle import pu
 import pygame
 import sys
 
